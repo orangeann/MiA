@@ -1,8 +1,8 @@
 /target/
 *~
 /.classpath
-/.idea
-/mia.iml
+.idea
+*.iml
 /.project
 /.settings/
 /appledata/
